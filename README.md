@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parseltongue-Wizard
-- 👀 I’m interested in creating a small pygame project
-- 🌱 I’m currently learning python and game development 
+- 👀 I’m interested in creating Machine Learning and Artificial Intelligence models
+- 🌱 I’m currently learning python and data science 
 - 💞️ I’m looking to collaborate on a bigger project later or expand on an already existing one 
 - 📫 How to reach me ...
 
